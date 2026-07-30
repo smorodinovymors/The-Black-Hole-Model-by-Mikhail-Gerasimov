@@ -20,9 +20,14 @@ Any object capable of disrupting the event horizon would cut it like a blade alo
 
 If the integrity of the event horizon is breached, space and time would rush into the black hole's interior, causing an explosive event analogous to a water hammer.
 
-- Problem: Mass defect of the Universe after its formation: where to look for this deficit?
-- Neutrinos are a candidate. With a density of approximately 300 particles per cubic centimeter, their total mass within the radius of the observable Universe (1.9×10⁵² kg) is approximately 10% of the total mass of all stars.
+For LIGO Project
 
-- Question: Radius of the Universe: how can its radius be calculated?
-- One viable method involves calculating the radius using the photon cooling gradient to 2.7 K. These cooled photons at the edge of the Universe are also candidates for dark matter.
-```
+Black holes decay in two phases, which correspond to the two peaks observed in your gravitational-wave signal.
+
+I have developed a decay model for black holes that accounts for the two gravitational-wave bursts through a physically consistent internal structure, without introducing free parameters into the governing equations.
+
+Phase 1: The black hole undergoes equatorial disruption, driven by its rotation at a frequency of 1 kHz and a surface velocity equal to one-seventh of the speed of light.
+
+Phase 2: The two resulting hemispherical fragments subsequently coalesce into a planar explosion.
+
+Thus, the two-phase decay process yields two distinct bursts in the gravitational-wave emission.
