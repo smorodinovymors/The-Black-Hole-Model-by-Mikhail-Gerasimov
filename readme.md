@@ -1,4 +1,6 @@
 ```
+RAW file. See file "Singularity-Free Black Hole Model"
+
 At present, the list of states of matter should be revised.
 
 The four fundamental states of matter—solid, liquid, gas, and plasma—constitute a particular case of interpreting energy as an object of study.
